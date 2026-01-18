@@ -1,2 +1,4 @@
 # ecommerce
-Site Ecommerce Java + vue
+Site Ecommerce 
+Back : Java + Spring boot
+Front : vue
